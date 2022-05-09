@@ -11,7 +11,7 @@ Gosto muito de programar em pyhton, e tenho ela como principal linguagem <br> No
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30"/>            
 </div>
 
-
+<br>
 Meus contatos:
 <div>
 <a href="https://instagram.com/luiz_gustavo_soares13" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
