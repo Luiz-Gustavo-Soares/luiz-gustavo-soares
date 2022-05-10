@@ -1,11 +1,11 @@
 ## Olá, Sou o Luiz Gustavo, meus amigos me chamam de Kirito.
 
 <hr>
-<p>
-Gosto muito de programar em pyhton, e a tenho como principal linguagem <br> 
+
+Gosto muito de programar em python, e a tenho como principal linguagem <br>
 No momento estou aprendendo java, está sendo bastante intereçante <br>
-Tambem sei sobre os fundamentos da programação web (HTML5, CSS3 e Js)
-</p>
+Tambem sei sobre os fundamentos da programação web (HTML5, CSS3 e Js) 
+
 
 <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30"/> 
