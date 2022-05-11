@@ -1,4 +1,4 @@
-## Olá, Sou o Luiz Gustavo, meus amigos me chamam de Kirito.
+## Olá, Sou o Luiz Gustavo
 
 <hr>
 
@@ -25,7 +25,7 @@ Tambem sei sobre os fundamentos da programação web (HTML5, CSS3 e Js)
 #### Meus contatos:
 <div>
     <a href="https://twitter.com/kiritoDarkk" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-    <a href="https://instagram.com/luiz_gustavo_soares_13" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://instagram.com/kirito_darkk" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://steamcommunity.com/profiles/76561199024798134/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
 </div>
 
