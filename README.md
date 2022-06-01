@@ -32,7 +32,7 @@ Tambem sei sobre os fundamentos da programação web (HTML5, CSS3 e Js)
 <hr>
 
 <div>
-    <a href="https://github.com/seu-usuário-aqui">
+    <a href="https://github.com/luiz-gustavo-soares">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiz-gustavo-soares&layout=compact&langs_count=7&theme=github_dark"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luiz-gustavo-soares&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 </div>
