@@ -2,8 +2,8 @@
 
 <hr>
 
-Gosto muito de programar em python e a tenho como principal linguagem
-No momento estou aprendendo java
+Gosto muito de programar em python e a tenho como principal linguagem <br>
+No momento estou aprendendo java <br>
 Também sei sobre programação web (HTML5, CSS3 e Js)
 
 
