@@ -12,9 +12,6 @@ Olá, sou o Luiz<br><br>Tenho maior interesse na área da web, mas sempre busco 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=luiz-gustavo-soares&theme=dracula&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=luiz-gustavo-soares&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=kiritoDarkk)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
 ### 😂 Random Meme
 <img src="http://lorempixel.com.br/512/400" width="512px"/>
 
