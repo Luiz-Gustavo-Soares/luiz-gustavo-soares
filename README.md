@@ -15,8 +15,8 @@ Olá, sou o Luiz<br><br>Tenho maior interesse na área da web, mas sempre busco 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=kiritoDarkk)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+### 😂 Random Meme
+<img src="http://lorempixel.com.br/512/400" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=luiz-gustavo-soares&icon=2&color=6)](https://visitcount.itsvg.in)
