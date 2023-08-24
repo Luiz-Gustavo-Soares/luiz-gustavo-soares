@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá, sou o Luiz<br><br>Tenho maior interesse na área da web, mas sempre busco conhecimento sobre outras tecnologias<br>Atualmente estou estudando React Native
+Olá, sou o Luiz<br><br>
 
 
 ## 🌐 Socials:
